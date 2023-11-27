@@ -1,0 +1,1036 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+    section.hero{
+    height: 1110px;
+}
+    .hero_content{
+    margin-top: 230px;
+}
+.s_down{
+    bottom: 7%;
+}
+.h_contact:after{
+    left: -7px;
+}
+
+
+    /* ======================
+                home page end
+                ==============================*/
+
+
+
+
+.d_w_hero{height: 975px !important;}
+.d_w_cont{
+    margin-top: 170px;
+}
+
+.d_w_left img{
+    top: 35rem;
+    left: 54%;
+    width: 122%;
+}
+.b_bottom{
+    margin-bottom: 60px;
+}
+    /* ======================
+                D_w page end
+                ==============================*/
+
+
+.m_d_hero{
+    height: 1000px !important;
+}               
+  .md_left img{
+    width: 180%;
+    left: 82%;
+    top: 40rem;
+}
+
+   /*========================
+        Marketing D Page End 
+  =========================*/
+  .dd_hero{
+    height: 840px !important;
+}
+  .dd_cont p{
+    width: 73%;
+}
+.dd_left img{
+    width: 300%;
+    left: 134%;
+    top: 38rem;
+}
+.dd_cont{
+    margin-top: 200px;
+}
+
+   /*========================
+         D.D Apps Page End 
+  =========================*/
+
+
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+    .p_100{
+    padding: 70px 0;
+}
+    .thm_btn{
+        font-size: 16px;
+        padding: 17px 28px;
+    }
+    p{
+    font-size: 16px;
+    line-height: 24px;
+}
+h2{
+    font-size: 30px;
+}
+.title h2{
+    margin-bottom: 20px;
+    text-transform: capitalize;
+}
+.title p{
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+*::placeholder{font-size: 16px;}
+    /* defalut css end=== */
+    .top_header .h_contact p{
+    font-size: 14px;
+}
+    .logo {
+        width: 100%;
+    }
+    
+    .logo img {
+        width: 100%;
+    }
+    #mein_menu a{
+    font-size: 15px;
+}
+i.fas.fa-search {
+    margin-left: 0px;
+}
+.h_contact:after{
+    top: 87%;
+    left: -2%;
+    width: 30px;
+    height: 90px;
+}
+section.hero{
+    height: 800px;
+    background-position: top;
+}
+.hero_content{
+    margin-top: 200px;
+}
+.hero_content span{
+    font-size: 30px;
+    letter-spacing: 11px;
+}
+.hero_content h1{
+    font-size: 70px;
+}
+.hero_content p{
+    font-size: 18px;
+    line-height: 1.5;
+    width: 70%;
+}
+
+.s_down{
+    width: 90px;
+    height: 90px;
+    line-height: 100;
+    bottom: 3%;
+}
+.b_fore{
+    width: 70px;
+    height: 70px;
+    left: 10px;
+    top: 11px;
+}
+.b_fore img{width: 50%;}
+.b_fore:before{}
+
+/* hero end ==========*/
+
+.singel_service{
+    padding: 50px 30px;
+    margin-left: 19px;
+}
+.singel_service img{
+    max-width: 40px;
+}
+.singel_service h4{
+    font-size: 18px;
+}
+.singel_service p{
+    font-size: 14px;
+}
+.singel_service a{
+    font-size: 13px;
+}
+.singel_service:after{
+    width: 50px;
+    height: 50px;
+}
+.service_content h3{
+    font-size: 28px;
+    margin-bottom: 30px;
+}
+.service_content p{
+    line-height: 28px;
+}
+.service_content strong{
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+/*service end======= */
+
+section.feature .title h2{
+    padding: 20px 0 35px;
+}
+.fe_box{
+    padding: 50px 35px 80px;
+}
+.fe_box img{
+    width: 40px;
+}
+.fe_box h5{
+    font-size: 20px;
+    margin-top: 55px;
+}
+.fe_box a{
+    font-size: 12px;
+}
+.fe_box:after{
+    width: 70px;
+    height: 70px;
+    top: 16%;
+}
+/*feature end======= */
+
+.Portfolio h2:after{
+    width: 50px;
+    left: 51%;
+    bottom: -55%;
+}
+.pf_heading h4{
+    font-size: 20px;
+}
+.pf_cont{
+    height: 220px;
+}
+.pf_last{
+    height: 440px;
+}
+.pf_last_hd{
+    left: 20%;
+    top: 43%;
+}
+/*Portfolio end======= */
+
+.form label{
+    font-size: 16px;
+}
+.form input{
+    padding: 20px;
+}
+/*contact end======= */
+footer{
+    border-top-right-radius: 300px;
+    border-top-left-radius: 300px;
+    padding-bottom: 10px !important;
+}
+.f_logo{
+    width: 80%;
+}
+.f_logo img{
+    width: 100%;
+}
+
+.f_info h5{
+    font-size: 20px;
+}
+.f_info p{
+    font-size: 14px;
+    width: 200px;
+    margin-bottom: 40px;
+}
+.f_contact h5{
+    font-size: 20px;
+}
+.f_contact p{
+    font-size: 14px;
+}
+.b_left::before{
+    left: -5%;
+}
+
+#footer_menu{
+    margin-top: 30px;
+}
+#footer_menu li{}
+#footer_menu ul li a{
+    font-size: 14px;
+}
+/*footer end & home page end======= */
+
+
+
+.d_w_hero{height: 780px !important;}
+.d_w_cont{
+    margin-top: 170px;
+}
+
+.d_w_left img{
+    top: 35rem;
+    left: 54%;
+    width: 122%;
+}
+.b_bottom{
+    margin-bottom: 60px;
+}
+.d_w_slider .owl-nav{
+    right: -8%;
+}
+.d_w_left img{
+    top: 31rem;
+}
+
+.d_w_cont h4{
+    font-size: 30px;
+}
+    /* ======================
+                D_w page end
+                ==============================*/
+
+
+.m_d_hero{
+    height: 860px !important;
+}               
+    .md_left img{
+    width: 225%;
+    left: 90%;
+    top: 36rem;
+}
+.md_slider .owl-nav{
+    right: -4%;
+}
+.d_w_slider .owl-nav button.owl-prev{
+    margin-right: 50px;
+}
+    /*========================
+        Marketing D Page End 
+    =========================*/
+
+.dd_hero{
+    height: 700px !important;
+}
+    .dd_cont p{
+    width: 73%;
+}
+.dd_left img{
+    width: 300%;
+    left: 134%;
+    top: 30rem;
+}
+
+
+    /*========================
+            D.D Apps Page End 
+    =========================*/
+
+
+
+.h_c_cont {}
+
+  
+    /*========================
+          contact Apps Page End 
+   =========================*/
+ 
+ 
+
+   }
+
+
+ 
+
+
+ 
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    .p_100{
+        padding: 50px 0;
+        margin-top: 20px;
+    }
+        .thm_btn{
+            font-size: 14px;
+            padding: 14px 22px;
+        }
+        p{
+        font-size: 14px;
+        line-height: 24px;
+    }
+    h2{
+        font-size: 25px;
+    }
+    .title h2{
+        margin-bottom: 20px;
+        text-transform: capitalize;
+    }
+    .title p{
+        margin-top: 50px;
+        margin-bottom: 30px;
+    }
+    *::placeholder{font-size: 14px;}
+        /* defalut css end=== */
+
+        .top_header{
+    display: none;
+}
+        .top_header .h_contact p{
+        font-size: 14px;
+    }
+        .logo {
+            width: 100%;
+        }
+        
+        .logo img {
+            width: 100%;
+        }
+        #mein_menu{
+        display: none;
+    }
+    .h_contact:after{
+        top: 87%;
+        left: -2%;
+        width: 30px;
+        height: 90px;
+    }
+    section.hero{
+        height: 670px;
+        background-position: top;
+    }
+    .hero_content{
+        margin-top: 140px;
+    }
+    .hero_content span{
+        font-size: 27px;
+        letter-spacing: 8px;
+    }
+    .hero_content h1{
+        font-size: 55px;
+        margin-bottom: 10px;
+    }
+    .hero_content p{
+        font-size: 16px;
+        line-height: 1.5;
+        width: 81%;
+        margin-bottom: 30px;
+    }
+    
+    .s_down{
+        width: 90px;
+        height: 90px;
+        line-height: 100;
+        bottom: 0%;
+    }
+    .b_fore{
+        width: 70px;
+        height: 70px;
+        left: 10px;
+        top: 11px;
+    }
+    .b_fore img{width: 50%;}
+    .b_fore:before{}
+    
+    /* hero end ==========*/
+    
+    .singel_service{
+        padding: 50px 30px;
+        margin-left: 21px;
+    }
+    .singel_service img{
+        max-width: 40px;
+    }
+    .singel_service h4{
+        font-size: 18px;
+    }
+    .singel_service p{
+        font-size: 14px;
+    }
+    .singel_service a{
+        font-size: 13px;
+    }
+    .singel_service:after{
+        width: 50px;
+        height: 50px;
+    }
+    .service_content{
+    margin-top: 30px;
+}
+    .service_content h3{
+        font-size: 25px;
+        margin-bottom: 20px;
+    }
+    .service_content p{
+        line-height: 24px;
+    }
+    .service_content strong{
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+    
+    /*service end======= */
+    
+    section.feature .title h2{
+        padding: 20px 0 35px;
+    }
+    .fe_box{
+        padding: 50px 35px 80px;
+        margin-bottom: 30px;
+    }
+    .fe_box img{
+        width: 40px;
+    }
+    .fe_box h5{
+        font-size: 20px;
+        margin-top: 55px;
+    }
+    .fe_box a{
+        font-size: 12px;
+    }
+    .fe_box:after{
+        width: 70px;
+        height: 70px;
+        top: 18%;
+    }
+    /*feature end======= */
+    
+    .Portfolio h2:after{
+        width: 50px;
+        left: 51%;
+        bottom: -55%;
+    }
+    .pf_heading h4{
+        font-size: 20px;
+    }
+    .pf_cont{
+        height: 220px;
+    }
+    .pf_last{
+        height: 375px;
+    }
+    .pf_last_hd{
+        left: 35%;
+        top: 43%;
+        transform: rotate(0deg);
+    }
+    /*Portfolio end======= */
+    
+    .form label{
+        font-size: 14px;
+    }
+    .form input{
+        padding: 15px;
+    }
+    .contact_right{
+    display: none;
+}
+    /*contact end======= */
+    footer{
+        border-top-right-radius: 240px;
+        border-top-left-radius: 240px;
+        padding-bottom: 10px !important;
+    }
+    .f_logo{
+        width: 100%;
+    }
+    .f_logo img{
+        width: 100%;
+    }
+    
+    .f_info h5{
+        font-size: 17px;
+        margin-bottom: 15px;
+    }
+    .f_info p{
+        font-size: 12px;
+        width: 200px;
+        margin-bottom: 28px;
+    }
+    .f_contact h5{
+        font-size: 16px;
+    }
+    .f_contact p{
+        font-size: 12px;
+        margin-bottom: 5px;
+    }
+    .b_left::before{
+        left: 1%;
+    }
+    
+    #footer_menu{
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+    #footer_menu li{
+    margin: 0 5px;
+}
+    #footer_menu ul li a{
+        font-size: 12px;
+    }
+    .c_r{}
+    /*footer end & home page end======= */
+    
+
+
+.d_w_left img{
+    top: 27rem;
+    width: 400px;
+    left: 74%;
+}
+.d_w_cont h4{
+    font-size: 24px;
+}
+.b_bottom{
+    margin-bottom: 40px !important;
+}
+.d_w_slider .owl-nav{
+    right: -3%;
+    bottom: -13%;
+}
+.d_w_slider .owl-nav button.owl-prev{
+    margin-right: 35px;
+}
+    /* ======================
+                D_w page end
+                ==============================*/
+
+
+.m_d_hero{
+    height: 740px !important;
+}
+.md_hero p{
+    width: 90%;
+} 
+.md_left img{
+    top: 33rem;
+    width: 340px;
+    left: 50%;
+}
+/* ======================
+            M D page end
+            ==============================*/
+
+
+            
+.dd_hero{
+    height: 625px !important;
+}
+    .dd_cont p{
+    width: 67%;
+}
+.dd_left img{
+    width: 400px;
+    left: 172%;
+    top: 27rem;
+}
+
+
+    /*========================
+            D.D Apps Page End 
+    =========================*/
+    
+    .hero_content.h_c_cont {}
+
+  
+/*========================
+      contact Apps Page End 
+=========================*/
+
+}
+
+ 
+/* small mobile :320px. */
+@media (max-width: 767px) {
+    .p_100{
+        padding: 35px 0;
+        margin-top: 13px;
+    }
+        .thm_btn{
+            font-size: 12px;
+            padding: 13px 20px;
+        }
+        p{
+        font-size: 11px;
+        line-height: 23px;
+    }
+    h2{
+        font-size: 19px;
+    }
+    .title h2{
+        margin-bottom: 20px;
+        text-transform: capitalize;
+    }
+    .title p{
+        margin-top: 50px;
+        margin-bottom: 30px;
+        width: 90%;
+    }
+    *::placeholder{font-size: 12px;}
+        /* defalut css end=== */
+
+        .top_header{
+    display: none;
+}
+        .top_header .h_contact p{
+        font-size: 14px;
+    }
+        .logo {
+            width: 100px;
+        }
+        
+        .logo img {
+            width: 100%;
+        }
+        #mein_menu{
+        display: none;
+    }
+    .h_contact:after{
+        top: 87%;
+        left: -2%;
+        width: 30px;
+        height: 90px;
+    }
+    section.hero{
+        height: 450px;
+        background-position: top;
+    }
+    .hero_content{
+        margin-top: 100px;
+    }
+    .hero_content span{
+        font-size: 18px;
+        letter-spacing: 5px;
+    }
+    .hero_content h1{
+        font-size: 35px;
+        margin-bottom: 10px;
+    }
+    .hero_content p{
+        font-size: 14px;
+        line-height: 1.4;
+        width: 100%;
+        margin-bottom: 25px;
+    }
+    
+    .s_down{
+        width: 65px;
+        height: 65px;
+        line-height: 100;
+        bottom: -6%;
+        left: 70%;
+    }
+    .b_fore{
+        width: 50px;
+        height: 50px;
+        left: 7px;
+        top: 8px;
+    }
+    .b_fore img{width: 40%;}
+    .b_fore:before{}
+    
+    /* hero end ==========*/
+    
+    .singel_service{
+        padding: 50px 40px;
+        margin-left: 0px;
+    }
+    .singel_service img{
+        max-width: 35px;
+    }
+    .singel_service h4{
+        font-size: 16px;
+    }
+    .singel_service p{
+        font-size: 13px;
+    }
+    .singel_service a{
+        font-size: 11px;
+    }
+    .singel_service:after{
+        width: 45px;
+        height: 45px;
+        left: 25%;
+        top: 22%;
+    }
+    .service_content{
+    margin-top: 30px;
+}
+    .service_content h3{
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+    .service_content p{
+        line-height: 22px;
+        margin-bottom: 10px;
+    }
+    .service_content strong{
+        font-size: 13px;
+        margin-bottom: 15px;
+    }
+    .s_slider .owl-nav button.owl-next{
+    right: -11%;
+}
+    /*service end======= */
+    
+    section.feature .title h2{
+        padding: 0px 0 25px;
+    }
+    .fe_box{
+        padding: 40px 35px 40px;
+        margin-bottom: 15px;
+    }
+    .fe_box img{
+        width: 30px;
+    }
+    .fe_box h5{
+        font-size: 18px;
+        margin-top: 45px;
+    }
+    .fe_box a{
+        font-size: 10px;
+    }
+    .fe_box:after{
+        width: 50px;
+        height: 50px;
+        top: 17%;
+    }
+    /*feature end======= */
+    
+    .Portfolio h2:after{
+        width: 50px;
+        left: 51%;
+        bottom: -55%;
+    }
+    .pf_heading h4{
+        font-size: 16px;
+        margin-bottom: 0;
+    }
+    .pf_cont{
+        height: 220px;
+    }
+    .pf_last{
+        height: 350px;
+    }
+    .pf_last_hd{
+        left: 23%;
+        top: 43%;
+        transform: rotate(0deg);
+    }
+    /*Portfolio end======= */
+    
+    .form label{
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+    .form input{
+        padding: 15px;
+        margin-bottom: 15px;
+    }
+    .contact_right{
+    display: none;
+}
+.form textarea{
+    padding: 15px;
+    height: 100px;
+}
+    /*contact end======= */
+    footer{
+        border-top-right-radius: 30px;
+        border-top-left-radius: 30px;
+        padding-bottom: 10px !important;
+    }
+    .f_logo{
+        width: 130px;
+        margin-bottom: 30px;
+        margin-top: 10px;
+    }
+    .f_logo img{
+        width: 100%;
+    }
+    .f_info{
+}
+    .f_info h5{
+        font-size: 17px;
+        margin-bottom: 15px;
+    }
+    .f_info p{
+        font-size: 12px;
+        width: 200px;
+        margin-bottom: 28px;
+    }
+    .f_contact h5{
+        font-size: 16px;
+        margin-bottom: 15px;
+    }
+    .f_contact p{
+        font-size: 12px;
+        margin-bottom: 5px;
+    }
+    .b_left::before{
+    display: none;
+    }
+    
+    #footer_menu{
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+    #footer_menu li{
+    margin: 0 3px;
+}
+    #footer_menu ul li a{
+        font-size: 11px;
+    }
+    .c_r{
+    font-size: 10px;
+}
+    /*======= =           footer end & home page end          = ==================*/
+
+    .b_bottom{
+    margin-bottom: 30px !important;
+}
+    .n_hero p{
+    width: 300px;
+}
+    /*hero end======= */
+
+    /* ======================
+                Nosotro page end
+                ==============================*/
+
+.d_w_hero{
+    height: 541px !important;
+}
+
+.d_w_cont h4{
+    font-size: 18px;
+}  
+.d_w_slider .owl-nav{
+    right: -3%;
+}
+.d_w_slider .owl-nav button.owl-prev{
+    margin-right: 30px;
+}        
+    /* ======================
+                D_w page end
+                ==============================*/
+   
+
+
+
+
+                
+.m_d_hero{
+    height: 590px !important;
+}               
+    .md_left img{
+    width: 225%;
+    left: 90%;
+    top: 36rem;
+}
+.md_slider .owl-nav{
+    right: -9%;
+    bottom: -14%;
+}
+.d_w_slider .owl-nav button.owl-prev{
+    margin-right: 50px;
+}
+    /*========================
+        Marketing D Page End 
+    =========================*/
+
+.dd_hero{
+    height: 625px !important;
+}
+.dd_cont p{width: 235px;}
+.dd_left img{
+    width: 400px;
+    left: 172%;
+    top: 27rem;
+}
+
+
+    /*========================
+            D.D Apps Page End 
+    =========================*/
+
+
+
+
+
+
+
+ 
+}
+ 
+/* Large Mobile :480px. */
+@media only screen and (min-width: 600px) and (max-width: 767px) {
+.container {width:450px}
+section.hero{
+    height: 500px;
+}
+.hero_content{
+    margin-top: 150px;
+}
+.singel_service:after{
+    left: 20%;
+    top: 24%;
+}
+.singel_service{
+    padding: 60px;
+}
+.fe_box{
+    padding: 40px 75px 40px;
+}
+  /*======= =           footer end & home page end          = ==================*/
+
+  
+.n_hero p{
+    width: 80%;
+}
+    /*hero end======= */
+
+    /* ======================
+                Nosotro page end
+                ==============================*/
+
+.d_w_cont{
+    margin-top: 120px;
+}
+
+.d_w_hero .container{
+    width: 545px;
+    margin-right: auto;
+}
+/* ======================
+                d.W page end
+                ==============================*/
+
+                
+
+.dd_cont p{width: 340px;}
+.dd_hero{
+    height: 510px !important;
+}
+/*========================
+        D.D Apps Page End 
+=========================*/
+
+}
